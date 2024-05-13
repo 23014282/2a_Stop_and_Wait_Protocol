@@ -37,10 +37,12 @@ while True:
  s.send("Acknowledgement Recived".encode())
 OUTPUT
 CLIENT
-image
+![306664559-5e7536db-fd1a-4b3f-9358-211a771e8100](https://github.com/23014282/2a_Stop_and_Wait_Protocol/assets/150009571/2fc2074f-d221-4cc7-8406-9bb90bc1a4b8)
+
 
 SERVER
-image
+![306664797-08351b08-bc67-42a0-975a-88d1f145a355](https://github.com/23014282/2a_Stop_and_Wait_Protocol/assets/150009571/26c3bf86-61b9-4cf9-9730-b42c3fa9b422)
+
 
 RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
